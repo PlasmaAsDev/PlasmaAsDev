@@ -2,7 +2,7 @@
 
 
 <br/>
-<a href="https://github.com/Daggy1234">
+<a href="https://github.com/PlasmaAsDev">
   <img src="https://komarev.com/ghpvc/?username=PlasmaAsDev&style=flat-square" />
 </a>
 
